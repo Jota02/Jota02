@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a **website**
 
-- 👨‍💻 I'm a recent  **Informatics Engineering** graduate.
+- 👨‍💻 I'm a recent  **Software Engineering** graduate.
 
 - 📫 How to reach me **jp.rocha.lima.2002@gmail.com**
 
