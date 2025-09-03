@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/joao-pedro-rocha-b86840258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joao-pedro-rocha-b86840258" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/02-joão-pedro-rocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joao-pedro-rocha-b86840258" height="30" width="40" /></a>
 <a href="https://instagram.com/_joao_pedro_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_joao_pedro_02" height="30" width="40" /></a>
 </p>
 
